@@ -6,3 +6,9 @@
    
 실행파일
 * [Builds.zip](https://github.com/lwhgit/Simulator/releases/download/0.1/Builds.zip)
+   
+데이터
+* [자유낙하시 시간 - 속도를 나타낸 저장한 파일](https://github.com/lwhgit/Simulator/blob/master/rawdata_d.dat)
+* [위 파일에서 시간을 소숫점 2자리까지 버린 파일](https://github.com/lwhgit/Simulator/blob/master/data_d.dat)
+* [위로 올렸을 때 시간 - 속도를 나타낸 저장한 파일](https://github.com/lwhgit/Simulator/blob/master/rawdata_u.dat)
+* [위 파일에서 시간을 소숫점 2자리까지 버린 파일](https://github.com/lwhgit/Simulator/blob/master/data_u.dat)
