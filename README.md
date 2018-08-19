@@ -15,5 +15,5 @@
 * [그래프를 그릴때 사용한 엑셀 파일](https://github.com/lwhgit/Simulator/raw/master/graph.xlsx)
    
 그래프
-![](https://github.com/lwhgit/Simulator/raw/master/graph_d.png)
-![](https://github.com/lwhgit/Simulator/raw/master/graph_.png)
+![](https://github.com/lwhgit/Simulator/raw/master/graph_d.png)   
+![](https://github.com/lwhgit/Simulator/raw/master/graph_u.png)
