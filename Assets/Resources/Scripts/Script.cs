@@ -39,9 +39,9 @@ public class Script : MonoBehaviour {
 
     void Start () {
         rb = gameObject.GetComponent<Rigidbody>();
-	}
+    }
 	
-	void Update () {
+    void Update () {
         
         if (!run && Input.GetKeyDown(KeyCode.S)) {
             run = true;
